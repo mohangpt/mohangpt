@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan Gupta
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and learning new tech.
 - 🌱 I’m currently learning Low-Level Design
 - 💞️ I’m looking to collaborate on any apps
 - 📫 write me at mohangpt.mrt@gmail.com
