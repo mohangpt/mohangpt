@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohan Gupta
 - 👀 I’m interested in Web Development and learning new tech.
 - 🌱 I’m currently learning Low-Level Design
-- 💞️ I’m looking to collaborate on any apps
+- 💞️ I’m looking to collaborate on any project.
 - 📫 write me at mohangpt.mrt@gmail.com
 
 <!---
